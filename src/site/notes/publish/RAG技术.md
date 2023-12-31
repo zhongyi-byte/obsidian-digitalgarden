@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-31","tags":["devv","rag","ai"],"dg-publish":true,"dg-path":"RAG技术.md","permalink":"/RAG技术/","dgPassFrontmatter":true}
+{"date":"2023-12-31","tags":["devv","rag","ai"],"dg-publish":true,"dg-path":"RAG技术.md","permalink":"/RAG技术/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-31T13:56:42.495+08:00","updated":"2023-12-31T21:24:23.762+08:00"}
 ---
 
 ## 什么是RAG
