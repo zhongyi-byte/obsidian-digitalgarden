@@ -12,8 +12,7 @@
   admin: ['zhongyi-byte'],
   distractionFreeMode: false,  // Facebook-like distraction free mode
   perPage: 20,
-  id: md5(window.location.pathname), // 查找 issus 的条件，后面将对 id 有针对逻辑
-  title: "{{page.title}}"
+  id: md5(window.location.pathname)
 })
 gitalk.render('gitalk-container')
 </script>
