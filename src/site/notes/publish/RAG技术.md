@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-31","tags":["devv","rag","ai"],"dg-publish":true,"dg-path":"RAG技术.md","permalink":"/RAG技术/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-31T13:56:42.495+08:00","updated":"2023-12-31T21:24:23.762+08:00"}
+{"date":"2023-12-31","tags":["devv","rag","ai"],"dg-publish":true,"dg-path":"RAG技术.md","permalink":"/RAG技术/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-31T13:56:42.495+08:00","updated":"2024-01-01T13:13:50.112+08:00"}
 ---
 
 ## 什么是RAG
@@ -41,6 +41,9 @@
 ## devv.ai的实践
 1. 评测集。
 2. 自动化评测框架。可用于快速验证prompt改动造成的影响，进行a/b测试
+
+### 开源rag框架
+1. embedchain
 
 
 
