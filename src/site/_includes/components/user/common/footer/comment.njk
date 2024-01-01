@@ -1,4 +1,15 @@
 <div class="content" align="center">
+var gitalk = new Gitalk({
+  clientID: '44d65c06e2a45a05d3a8',
+  clientSecret: 'a3b77ad5f3072b20f9e8c349e7ef15a27f7e1bae',
+  repo: 'obsidian-digitalgarden',
+  owner: 'zhongyi-byte',
+  admin: ['zhongyi-byte'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+
+gitalk.render('gitalk-container')
 <div class="content">2023-2024 Zyi's site</div>
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 </div>
