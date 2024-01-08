@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/原子笔记/RAG笔记/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-02T14:56:35.095+08:00","updated":"2024-01-08T15:48:50.176+08:00"}
+{"dg-publish":true,"permalink":"/原子笔记/RAG笔记/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-02T14:56:35.095+08:00","updated":"2024-01-08T15:56:26.257+08:00"}
 ---
 
 
 ### 基础应用
 1. chatbot
 对话机器人。例如将乔布斯的所有资料（演讲、访谈、文章）等都放进资料库，以此构建的chatbot就像与其本人对话一样。
-2. 客服机器人···
-将产品的相关资料放入机器人，由该ai机器人对客户问题进行解答。
-
 
 #### 工作流程
 ![Pasted image 20240101173112.png](/img/user/%E6%94%B6%E9%9B%86%E7%AE%B1/attachments/Pasted%20image%2020240101173112.png)
