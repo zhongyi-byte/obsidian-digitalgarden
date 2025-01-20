@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/原子笔记/RAG笔记/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-02T14:56:35.095+08:00","updated":"2024-01-08T15:56:26.257+08:00"}
+dg-publish: true
 ---
-
 
 ### 基础应用
 1. chatbot
